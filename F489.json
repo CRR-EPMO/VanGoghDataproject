@@ -682,7 +682,7 @@
       ],
       "took_place_at": [
         {
-          "id": "",
+          
           "type": "Place",
           "_label": "null"
         }
@@ -721,7 +721,7 @@
       ],
       "took_place_at": [
         {
-          "id": "",
+          
           "type": "Place",
           "_label": "Cologne"
         }
@@ -760,7 +760,7 @@
       ],
       "took_place_at": [
         {
-          "id": "",
+          
           "type": "Place",
           "_label": "Düsseldorf"
         }
@@ -799,7 +799,7 @@
       ],
       "took_place_at": [
         {
-          "id": "",
+          
           "type": "Place",
           "_label": "Berlin"
         }
@@ -838,7 +838,7 @@
       ],
       "took_place_at": [
         {
-          "id": "",
+          
           "type": "Place",
           "_label": "Berlin"
         }
@@ -877,7 +877,7 @@
       ],
       "took_place_at": [
         {
-          "id": "",
+          
           "type": "Place",
           "_label": "Berlin"
         }
@@ -916,7 +916,7 @@
       ],
       "took_place_at": [
         {
-          "id": "",
+          
           "type": "Place",
           "_label": "null"
         }
@@ -955,7 +955,7 @@
       ],
       "took_place_at": [
         {
-          "id": "",
+          
           "type": "Place",
           "_label": "Paris"
         }
@@ -994,7 +994,7 @@
       ],
       "took_place_at": [
         {
-          "id": "",
+          
           "type": "Place",
           "_label": "null"
         }
@@ -1033,7 +1033,7 @@
       ],
       "took_place_at": [
         {
-          "id": "",
+          
           "type": "Place",
           "_label": "null"
         }
@@ -1072,7 +1072,7 @@
       ],
       "took_place_at": [
         {
-          "id": "",
+          
           "type": "Place",
           "_label": "New York"
         }
@@ -1111,7 +1111,7 @@
       ],
       "took_place_at": [
         {
-          "id": "",
+          
           "type": "Place",
           "_label": "New York"
         }
@@ -1150,7 +1150,7 @@
       ],
       "took_place_at": [
         {
-          "id": "",
+          
           "type": "Place",
           "_label": "Dallas"
         }
@@ -1189,7 +1189,7 @@
       ],
       "took_place_at": [
         {
-          "id": "",
+          
           "type": "Place",
           "_label": "Arles"
         }
@@ -1228,7 +1228,7 @@
       ],
       "took_place_at": [
         {
-          "id": "",
+          
           "type": "Place",
           "_label": "Budapest"
         }
@@ -1267,7 +1267,7 @@
       ],
       "took_place_at": [
         {
-          "id": "",
+          
           "type": "Place",
           "_label": "Marseille"
         }
@@ -1306,7 +1306,7 @@
       ],
       "took_place_at": [
         {
-          "id": "",
+          
           "type": "Place",
           "_label": "null"
         }
@@ -1345,7 +1345,7 @@
       ],
       "took_place_at": [
         {
-          "id": "",
+          
           "type": "Place",
           "_label": "Tokyo"
         }
@@ -1384,7 +1384,7 @@
       ],
       "took_place_at": [
         {
-          "id": "",
+          
           "type": "Place",
           "_label": "Kobe"
         }
@@ -1423,7 +1423,7 @@
       ],
       "took_place_at": [
         {
-          "id": "",
+          
           "type": "Place",
           "_label": "Canberra"
         }
