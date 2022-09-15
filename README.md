@@ -17,7 +17,7 @@ Test data sets to participate in the Vang Gogh Wolrdwide project (https://vangog
 ### Process 
 
 ```mermaid
-  graph LR;
+  graph TB;
      A[(TMS Object)]-- Export XML --- B[OpenRefine]
      B -.-> C{{ReconcialiationServiceAAT}}
      B -.-> E{{Clean data}}
