@@ -17,13 +17,13 @@ Test data sets to participate in the Vang Gogh Wolrdwide project (https://vangog
 ### Process 
 
 ```mermaid
-  graph TB;
+  graph LR;
      A[(TMS Object)]-- Export XML --- B[OpenRefine]
-     B -.-> C{{ReconcialiationServiceAAT}}
-     B -.-> E{{Clean data}}
-     C -.-> F[Export]
-     E -.-> F
-     F -- Export Templating --- D[generate jsonfile]
+     B -.-> C{{Data wrangling}}
+     C -.-> E{{Reconcialiation Service}}
+     E -.-> F{{Export templating}}
+     F -.-> G{{Export}}
+     F --  --- D[generate jsonfile]
      D -- File deposit ---- G[Plateforme Github]
 ```
 
