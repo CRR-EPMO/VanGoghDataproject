@@ -29,7 +29,7 @@
     },
 	{
 	 "type": "Identifier",
-      "content": "RF 1950 49   ", 
+      "content": "RF 1950 49", 
       "classified_as": [
         {
           "id": "http://vocab.getty.edu/aat/300312355",

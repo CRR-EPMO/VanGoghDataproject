@@ -501,8 +501,9 @@
 	}
   ],
   "used_for": [
-       {
+           {
       "type": "Activity",
+	  "id" : "https://www.musee-orsay.fr/data/exhibition/500947/1960/1960",
       "classified_as": [
         {
           "id": "http://vocab.getty.edu/aat/300054766",
@@ -518,14 +519,14 @@
       ],
       "carried_out_by": [
         {
-         
+          "id": "https://data.rkd.nl/artists/500947",
           "type": "Actor",
           "_label": "musée Jacquemart-André"
         }
       ],
       "took_place_at": [
         {
-         
+          
           "type": "Place",
           "_label": "Paris"
         }
@@ -534,12 +535,14 @@
         {
           "type": "TimeSpan",
           "begin_of_the_begin": "1960-01-01",
-		  "end_of_the_end": "1960-12-31"
+          "end_of_the_end": "1960-12-31"
         }
       ]
-    },
+    }
+	,
     {
       "type": "Activity",
+	  "id" : "https://www.musee-orsay.fr/data/exhibition/505244/2002/2002",
       "classified_as": [
         {
           "id": "http://vocab.getty.edu/aat/300054766",
@@ -555,14 +558,14 @@
       ],
       "carried_out_by": [
         {
-         
+          "id": "https://data.rkd.nl/artists/505244",
           "type": "Actor",
           "_label": "Shoto Museum of Art"
         }
       ],
       "took_place_at": [
         {
-         
+          
           "type": "Place",
           "_label": "Tokyo"
         }
@@ -571,12 +574,14 @@
         {
           "type": "TimeSpan",
           "begin_of_the_begin": "2002-01-01",
-		  "end_of_the_end": "2002-12-31"
+          "end_of_the_end": "2002-12-31"
         }
       ]
-    },
+    }
+	,
     {
       "type": "Activity",
+	  "id" : "https://www.musee-orsay.fr/data/exhibition/505245/2002/2003",
       "classified_as": [
         {
           "id": "http://vocab.getty.edu/aat/300054766",
@@ -592,14 +597,14 @@
       ],
       "carried_out_by": [
         {
-         
+          "id": "https://data.rkd.nl/artists/505245",
           "type": "Actor",
           "_label": "City Art Museum"
         }
       ],
       "took_place_at": [
         {
-         
+          
           "type": "Place",
           "_label": "Niigata"
         }
@@ -608,12 +613,14 @@
         {
           "type": "TimeSpan",
           "begin_of_the_begin": "2002-01-01",
-		  "end_of_the_end": "2003-12-31"
+          "end_of_the_end": "2003-12-31"
         }
       ]
-    },
+    }
+	,
     {
       "type": "Activity",
+	  "id" : "https://www.musee-orsay.fr/data/exhibition/500789 /2006/2007",
       "classified_as": [
         {
           "id": "http://vocab.getty.edu/aat/300054766",
@@ -629,14 +636,14 @@
       ],
       "carried_out_by": [
         {
-         
+          "id": "https://data.rkd.nl/artists/500789 ",
           "type": "Actor",
           "_label": "Szépművészeti Múzeum"
         }
       ],
       "took_place_at": [
         {
-         
+          
           "type": "Place",
           "_label": "Budapest"
         }
@@ -645,12 +652,14 @@
         {
           "type": "TimeSpan",
           "begin_of_the_begin": "2006-01-01",
-		  "end_of_the_end": "2007-12-31"
+          "end_of_the_end": "2007-12-31"
         }
       ]
-    },
+    }
+	,
     {
       "type": "Activity",
+	  "id" : "https://www.musee-orsay.fr/data/exhibition/505246/2008/2009",
       "classified_as": [
         {
           "id": "http://vocab.getty.edu/aat/300054766",
@@ -666,14 +675,14 @@
       ],
       "carried_out_by": [
         {
-         
+          "id": "https://data.rkd.nl/artists/505246",
           "type": "Actor",
           "_label": "Museo de Zaragoza"
         }
       ],
       "took_place_at": [
         {
-         
+          
           "type": "Place",
           "_label": "Saragosse"
         }
@@ -682,9 +691,10 @@
         {
           "type": "TimeSpan",
           "begin_of_the_begin": "2008-01-01",
-		  "end_of_the_end": "2009-12-31"
+          "end_of_the_end": "2009-12-31"
         }
       ]
     }
+	
   ]
 }

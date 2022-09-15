@@ -225,8 +225,7 @@
     }
   ],
   "referred_to_by": [
-    {
-       
+    { 
       "type": "LinguisticObject", 
       "classified_as": [
         {
@@ -601,8 +600,9 @@
 	}
   ],
   "used_for": [
-        {
+            {
       "type": "Activity",
+	  "id" : "https://www.musee-orsay.fr/data/exhibition/754-1/1905/1905",
       "classified_as": [
         {
           "id": "http://vocab.getty.edu/aat/300054766",
@@ -618,14 +618,13 @@
       ],
       "carried_out_by": [
         {
-          
+          "id": "https://www.musee-orsay.fr/data/actor/754-1",
           "type": "Actor",
           "_label": "salon de la Société des artistes indépendants"
         }
       ],
       "took_place_at": [
         {
-          
           "type": "Place",
           "_label": "Paris"
         }
@@ -637,9 +636,11 @@
 		  "end_of_the_end": "1905-12-31"
         }
       ]
-    },
+    }
+	,
     {
       "type": "Activity",
+	  "id" : "https://www.musee-orsay.fr/data/exhibition/495488 /1905/1905",
       "classified_as": [
         {
           "id": "http://vocab.getty.edu/aat/300054766",
@@ -655,14 +656,13 @@
       ],
       "carried_out_by": [
         {
-          
+          "id": "https://data.rkd.nl/artists/495488 ",
           "type": "Actor",
           "_label": "Stedelijk Museum"
         }
       ],
       "took_place_at": [
         {
-          
           "type": "Place",
           "_label": "Amsterdam"
         }
@@ -674,9 +674,11 @@
 		  "end_of_the_end": "1905-12-31"
         }
       ]
-    },
+    }
+	,
     {
       "type": "Activity",
+	  "id" : "https://www.musee-orsay.fr/data/exhibition/500310605/1954/1955",
       "classified_as": [
         {
           "id": "http://vocab.getty.edu/aat/300054766",
@@ -692,14 +694,13 @@
       ],
       "carried_out_by": [
         {
-          
+          "id": "http://vocab.getty.edu/ulan/500310605",
           "type": "Actor",
           "_label": "musée de l'Orangerie"
         }
       ],
       "took_place_at": [
         {
-          
           "type": "Place",
           "_label": "Paris"
         }
@@ -711,9 +712,11 @@
 		  "end_of_the_end": "1955-12-31"
         }
       ]
-    },
+    }
+	,
     {
       "type": "Activity",
+	  "id" : "https://www.musee-orsay.fr/data/exhibition/500237738/1999/1999",
       "classified_as": [
         {
           "id": "http://vocab.getty.edu/aat/300054766",
@@ -729,14 +732,13 @@
       ],
       "carried_out_by": [
         {
-          
+          "id": "http://vocab.getty.edu/ulan/500237738",
           "type": "Actor",
           "_label": "Galeries nationales du Grand Palais"
         }
       ],
       "took_place_at": [
         {
-          
           "type": "Place",
           "_label": "Paris"
         }
@@ -748,9 +750,11 @@
 		  "end_of_the_end": "1999-12-31"
         }
       ]
-    },
+    }
+	,
     {
       "type": "Activity",
+	  "id" : "https://www.musee-orsay.fr/data/exhibition/500948/1999/1999",
       "classified_as": [
         {
           "id": "http://vocab.getty.edu/aat/300054766",
@@ -766,14 +770,13 @@
       ],
       "carried_out_by": [
         {
-          
+          "id": "https://data.rkd.nl/artists/500948",
           "type": "Actor",
           "_label": "Metropolitan Museum of Art"
         }
       ],
       "took_place_at": [
         {
-          
           "type": "Place",
           "_label": "New York"
         }
@@ -785,9 +788,11 @@
 		  "end_of_the_end": "1999-12-31"
         }
       ]
-    },
+    }
+	,
     {
       "type": "Activity",
+	  "id" : "https://www.musee-orsay.fr/data/exhibition/494007/1999/1999",
       "classified_as": [
         {
           "id": "http://vocab.getty.edu/aat/300054766",
@@ -803,14 +808,13 @@
       ],
       "carried_out_by": [
         {
-          
+          "id": "https://data.rkd.nl/artists/494007",
           "type": "Actor",
           "_label": "Van Gogh Museum"
         }
       ],
       "took_place_at": [
         {
-          
           "type": "Place",
           "_label": "null"
         }
@@ -822,9 +826,11 @@
 		  "end_of_the_end": "1999-12-31"
         }
       ]
-    },
+    }
+	,
     {
       "type": "Activity",
+	  "id" : "https://www.musee-orsay.fr/data/exhibition/505287/2007/2007",
       "classified_as": [
         {
           "id": "http://vocab.getty.edu/aat/300054766",
@@ -840,14 +846,13 @@
       ],
       "carried_out_by": [
         {
-          
+          "id": "https://data.rkd.nl/artists/505287",
           "type": "Actor",
           "_label": "musée d'art et d'histoire Louis Senlecq"
         }
       ],
       "took_place_at": [
         {
-          
           "type": "Place",
           "_label": "L'Isle-Adam"
         }
@@ -859,9 +864,11 @@
 		  "end_of_the_end": "2007-12-31"
         }
       ]
-    },
+    }
+	,
     {
       "type": "Activity",
+	  "id" : "https://www.musee-orsay.fr/data/exhibition/505241/2007/2008",
       "classified_as": [
         {
           "id": "http://vocab.getty.edu/aat/300054766",
@@ -877,14 +884,13 @@
       ],
       "carried_out_by": [
         {
-          
+          "id": "https://data.rkd.nl/artists/505241",
           "type": "Actor",
           "_label": "musée des Beaux-Arts"
         }
       ],
       "took_place_at": [
         {
-          
           "type": "Place",
           "_label": "Reims"
         }
@@ -896,9 +902,11 @@
 		  "end_of_the_end": "2008-12-31"
         }
       ]
-    },
+    }
+	,
     {
       "type": "Activity",
+	  "id" : "https://www.musee-orsay.fr/data/exhibition/500307563/2008/2008",
       "classified_as": [
         {
           "id": "http://vocab.getty.edu/aat/300054766",
@@ -914,14 +922,13 @@
       ],
       "carried_out_by": [
         {
-          
+          "id": "http://vocab.getty.edu/ulan/500307563",
           "type": "Actor",
           "_label": "musée Léon Bonnat"
         }
       ],
       "took_place_at": [
         {
-          
           "type": "Place",
           "_label": "Bayonne"
         }
@@ -933,9 +940,11 @@
 		  "end_of_the_end": "2008-12-31"
         }
       ]
-    },
+    }
+	,
     {
       "type": "Activity",
+	  "id" : "https://www.musee-orsay.fr/data/exhibition/500787/2014/2014",
       "classified_as": [
         {
           "id": "http://vocab.getty.edu/aat/300054766",
@@ -951,14 +960,13 @@
       ],
       "carried_out_by": [
         {
-          
+          "id": "https://data.rkd.nl/artists/500787",
           "type": "Actor",
           "_label": "musée d'Orsay, Paris"
         }
       ],
       "took_place_at": [
         {
-          
           "type": "Place",
           "_label": "Paris"
         }
@@ -971,5 +979,6 @@
         }
       ]
     }
+	
   ]
 }

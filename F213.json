@@ -713,8 +713,9 @@
 	}
   ],
   "used_for": [
-        {
+           {
       "type": "Activity",
+	  "id" : "https://www.musee-orsay.fr/data/exhibition/505248/1955/1955",
       "classified_as": [
         {
           "id": "http://vocab.getty.edu/aat/300054766",
@@ -730,14 +731,13 @@
       ],
       "carried_out_by": [
         {
-          
+          "id": "https://data.rkd.nl/artists/505248",
           "type": "Actor",
           "_label": "musée d'Art et d'Industrie"
         }
       ],
       "took_place_at": [
         {
-          
           "type": "Place",
           "_label": "Saint-Etienne"
         }
@@ -749,9 +749,11 @@
 		  "end_of_the_end": "1955-12-31"
         }
       ]
-    },
+    }
+	,
     {
       "type": "Activity",
+	  "id" : "https://www.musee-orsay.fr/data/exhibition/494285/1961/1962",
       "classified_as": [
         {
           "id": "http://vocab.getty.edu/aat/300054766",
@@ -767,14 +769,13 @@
       ],
       "carried_out_by": [
         {
-          
+          "id": "https://data.rkd.nl/artists/494285",
           "type": "Actor",
           "_label": "National Museum of Modern Art"
         }
       ],
       "took_place_at": [
         {
-          
           "type": "Place",
           "_label": "Tokyo"
         }
@@ -786,9 +787,11 @@
 		  "end_of_the_end": "1962-12-31"
         }
       ]
-    },
+    }
+	,
     {
       "type": "Activity",
+	  "id" : "https://www.musee-orsay.fr/data/exhibition/741-3/1962/1962",
       "classified_as": [
         {
           "id": "http://vocab.getty.edu/aat/300054766",
@@ -804,14 +807,13 @@
       ],
       "carried_out_by": [
         {
-          
+          "id": "https://www.musee-orsay.fr/data/actor/741-3",
           "type": "Actor",
           "_label": "Museo Nacional de Arte Moderno - Palacio de Bellas Artes"
         }
       ],
       "took_place_at": [
         {
-          
           "type": "Place",
           "_label": "Mexico"
         }
@@ -823,9 +825,11 @@
 		  "end_of_the_end": "1962-12-31"
         }
       ]
-    },
+    }
+	,
     {
       "type": "Activity",
+	  "id" : "https://www.musee-orsay.fr/data/exhibition/500305136/1978/1978",
       "classified_as": [
         {
           "id": "http://vocab.getty.edu/aat/300054766",
@@ -841,14 +845,13 @@
       ],
       "carried_out_by": [
         {
-          
+          "id": "http://vocab.getty.edu/ulan/500305136",
           "type": "Actor",
           "_label": "galerie des Beaux-Arts"
         }
       ],
       "took_place_at": [
         {
-          
           "type": "Place",
           "_label": "Bordeaux"
         }
@@ -860,9 +863,11 @@
 		  "end_of_the_end": "1978-12-31"
         }
       ]
-    },
+    }
+	,
     {
       "type": "Activity",
+	  "id" : "https://www.musee-orsay.fr/data/exhibition/741-5/1985/1985",
       "classified_as": [
         {
           "id": "http://vocab.getty.edu/aat/300054766",
@@ -878,14 +883,13 @@
       ],
       "carried_out_by": [
         {
-          
+          "id": "https://www.musee-orsay.fr/data/actor/741-5",
           "type": "Actor",
           "_label": "palais des Beaux-Arts"
         }
       ],
       "took_place_at": [
         {
-          
           "type": "Place",
           "_label": "Pékin"
         }
@@ -897,9 +901,11 @@
 		  "end_of_the_end": "1985-12-31"
         }
       ]
-    },
+    }
+	,
     {
       "type": "Activity",
+	  "id" : "https://www.musee-orsay.fr/data/exhibition/505241/1985/1985",
       "classified_as": [
         {
           "id": "http://vocab.getty.edu/aat/300054766",
@@ -915,14 +921,13 @@
       ],
       "carried_out_by": [
         {
-          
+          "id": "https://data.rkd.nl/artists/505241",
           "type": "Actor",
           "_label": "musée des Beaux-Arts"
         }
       ],
       "took_place_at": [
         {
-          
           "type": "Place",
           "_label": "Shanghai"
         }
@@ -934,9 +939,11 @@
 		  "end_of_the_end": "1985-12-31"
         }
       ]
-    },
+    }
+	,
     {
       "type": "Activity",
+	  "id" : "https://www.musee-orsay.fr/data/exhibition/494007/1990/1990",
       "classified_as": [
         {
           "id": "http://vocab.getty.edu/aat/300054766",
@@ -952,14 +959,13 @@
       ],
       "carried_out_by": [
         {
-          
+          "id": "https://data.rkd.nl/artists/494007",
           "type": "Actor",
           "_label": "Van Gogh Museum"
         }
       ],
       "took_place_at": [
         {
-          
           "type": "Place",
           "_label": "Amsterdam"
         }
@@ -971,9 +977,11 @@
 		  "end_of_the_end": "1990-12-31"
         }
       ]
-    },
+    }
+	,
     {
       "type": "Activity",
+	  "id" : "https://www.musee-orsay.fr/data/exhibition/500306170/1997/1997",
       "classified_as": [
         {
           "id": "http://vocab.getty.edu/aat/300054766",
@@ -989,14 +997,13 @@
       ],
       "carried_out_by": [
         {
-          
+          "id": "http://vocab.getty.edu/ulan/500306170",
           "type": "Actor",
           "_label": "musée Charlier"
         }
       ],
       "took_place_at": [
         {
-          
           "type": "Place",
           "_label": "Bruxelles"
         }
@@ -1008,9 +1015,11 @@
 		  "end_of_the_end": "1997-12-31"
         }
       ]
-    },
+    }
+	,
     {
       "type": "Activity",
+	  "id" : "https://www.musee-orsay.fr/data/exhibition/494007/1999/1999",
       "classified_as": [
         {
           "id": "http://vocab.getty.edu/aat/300054766",
@@ -1026,14 +1035,13 @@
       ],
       "carried_out_by": [
         {
-          
+          "id": "https://data.rkd.nl/artists/494007",
           "type": "Actor",
           "_label": "Van Gogh Museum"
         }
       ],
       "took_place_at": [
         {
-          
           "type": "Place",
           "_label": "null"
         }
@@ -1045,9 +1053,11 @@
 		  "end_of_the_end": "1999-12-31"
         }
       ]
-    },
+    }
+	,
     {
       "type": "Activity",
+	  "id" : "https://www.musee-orsay.fr/data/exhibition/500787/1999/2000",
       "classified_as": [
         {
           "id": "http://vocab.getty.edu/aat/300054766",
@@ -1063,14 +1073,13 @@
       ],
       "carried_out_by": [
         {
-          
+          "id": "https://data.rkd.nl/artists/500787",
           "type": "Actor",
           "_label": "musée d'Orsay, Paris"
         }
       ],
       "took_place_at": [
         {
-          
           "type": "Place",
           "_label": "Paris"
         }
@@ -1082,9 +1091,11 @@
 		  "end_of_the_end": "2000-12-31"
         }
       ]
-    },
+    }
+	,
     {
       "type": "Activity",
+	  "id" : "https://www.musee-orsay.fr/data/exhibition/494279/2001/2001",
       "classified_as": [
         {
           "id": "http://vocab.getty.edu/aat/300054766",
@@ -1100,14 +1111,13 @@
       ],
       "carried_out_by": [
         {
-          
+          "id": "https://data.rkd.nl/artists/494279",
           "type": "Actor",
           "_label": "musée national"
         }
       ],
       "took_place_at": [
         {
-          
           "type": "Place",
           "_label": "Varsovie"
         }
@@ -1119,9 +1129,11 @@
 		  "end_of_the_end": "2001-12-31"
         }
       ]
-    },
+    }
+	,
     {
       "type": "Activity",
+	  "id" : "https://www.musee-orsay.fr/data/exhibition/505249/2001/2001",
       "classified_as": [
         {
           "id": "http://vocab.getty.edu/aat/300054766",
@@ -1137,14 +1149,13 @@
       ],
       "carried_out_by": [
         {
-          
+          "id": "https://data.rkd.nl/artists/505249",
           "type": "Actor",
           "_label": "Muzeum Narodowyn w Poznaniu"
         }
       ],
       "took_place_at": [
         {
-          
           "type": "Place",
           "_label": "Poznan"
         }
@@ -1156,9 +1167,11 @@
 		  "end_of_the_end": "2001-12-31"
         }
       ]
-    },
+    }
+	,
     {
       "type": "Activity",
+	  "id" : "https://www.musee-orsay.fr/data/exhibition/500290377/2001/2001",
       "classified_as": [
         {
           "id": "http://vocab.getty.edu/aat/300054766",
@@ -1174,14 +1187,13 @@
       ],
       "carried_out_by": [
         {
-          
+          "id": "http://vocab.getty.edu/ulan/500290377",
           "type": "Actor",
           "_label": "Muzeum Narodowyn w Krakowie"
         }
       ],
       "took_place_at": [
         {
-          
           "type": "Place",
           "_label": "Cracovie"
         }
@@ -1193,9 +1205,11 @@
 		  "end_of_the_end": "2001-12-31"
         }
       ]
-    },
+    }
+	,
     {
       "type": "Activity",
+	  "id" : "https://www.musee-orsay.fr/data/exhibition/500309392/2001/2002",
       "classified_as": [
         {
           "id": "http://vocab.getty.edu/aat/300054766",
@@ -1211,14 +1225,13 @@
       ],
       "carried_out_by": [
         {
-          
+          "id": "http://vocab.getty.edu/ulan/500309392",
           "type": "Actor",
           "_label": "National Palace Museum"
         }
       ],
       "took_place_at": [
         {
-          
           "type": "Place",
           "_label": "Taipei"
         }
@@ -1230,9 +1243,11 @@
 		  "end_of_the_end": "2002-12-31"
         }
       ]
-    },
+    }
+	,
     {
       "type": "Activity",
+	  "id" : "https://www.musee-orsay.fr/data/exhibition/501578/2002/2003",
       "classified_as": [
         {
           "id": "http://vocab.getty.edu/aat/300054766",
@@ -1248,14 +1263,13 @@
       ],
       "carried_out_by": [
         {
-          
+          "id": "https://data.rkd.nl/artists/501578",
           "type": "Actor",
           "_label": "Casa dei Carraresi"
         }
       ],
       "took_place_at": [
         {
-          
           "type": "Place",
           "_label": "Trévise"
         }
@@ -1267,9 +1281,11 @@
 		  "end_of_the_end": "2003-12-31"
         }
       ]
-    },
+    }
+	,
     {
       "type": "Activity",
+	  "id" : "https://www.musee-orsay.fr/data/exhibition/505250/2008/2009",
       "classified_as": [
         {
           "id": "http://vocab.getty.edu/aat/300054766",
@@ -1285,14 +1301,13 @@
       ],
       "carried_out_by": [
         {
-          
+          "id": "https://data.rkd.nl/artists/505250",
           "type": "Actor",
           "_label": "centre de la Vieille Charité"
         }
       ],
       "took_place_at": [
         {
-          
           "type": "Place",
           "_label": "Marseille"
         }
@@ -1304,9 +1319,11 @@
 		  "end_of_the_end": "2009-12-31"
         }
       ]
-    },
+    }
+	,
     {
       "type": "Activity",
+	  "id" : "https://www.musee-orsay.fr/data/exhibition/499366/2009/2010",
       "classified_as": [
         {
           "id": "http://vocab.getty.edu/aat/300054766",
@@ -1322,14 +1339,13 @@
       ],
       "carried_out_by": [
         {
-          
+          "id": "https://data.rkd.nl/artists/499366",
           "type": "Actor",
           "_label": "National Gallery of Australia"
         }
       ],
       "took_place_at": [
         {
-          
           "type": "Place",
           "_label": "Canberra"
         }
@@ -1341,9 +1357,11 @@
 		  "end_of_the_end": "2010-12-31"
         }
       ]
-    },
+    }
+	,
     {
       "type": "Activity",
+	  "id" : "https://www.musee-orsay.fr/data/exhibition/499269/2010/2010",
       "classified_as": [
         {
           "id": "http://vocab.getty.edu/aat/300054766",
@@ -1359,14 +1377,13 @@
       ],
       "carried_out_by": [
         {
-          
+          "id": "https://data.rkd.nl/artists/499269",
           "type": "Actor",
           "_label": "National Art Center"
         }
       ],
       "took_place_at": [
         {
-          
           "type": "Place",
           "_label": "Tokyo"
         }
@@ -1378,9 +1395,11 @@
 		  "end_of_the_end": "2010-12-31"
         }
       ]
-    },
+    }
+	,
     {
       "type": "Activity",
+	  "id" : "https://www.musee-orsay.fr/data/exhibition/500308558/2010/2011",
       "classified_as": [
         {
           "id": "http://vocab.getty.edu/aat/300054766",
@@ -1396,14 +1415,13 @@
       ],
       "carried_out_by": [
         {
-          
+          "id": "http://vocab.getty.edu/ulan/500308558",
           "type": "Actor",
           "_label": "M. H. De Young Memorial Museum"
         }
       ],
       "took_place_at": [
         {
-          
           "type": "Place",
           "_label": "San Francisco"
         }
@@ -1415,9 +1433,11 @@
 		  "end_of_the_end": "2011-12-31"
         }
       ]
-    },
+    }
+	,
     {
       "type": "Activity",
+	  "id" : "https://www.musee-orsay.fr/data/exhibition/501259/2012/2012",
       "classified_as": [
         {
           "id": "http://vocab.getty.edu/aat/300054766",
@@ -1433,14 +1453,13 @@
       ],
       "carried_out_by": [
         {
-          
+          "id": "https://data.rkd.nl/artists/501259",
           "type": "Actor",
           "_label": "Philadelphia Museum of Art"
         }
       ],
       "took_place_at": [
         {
-          
           "type": "Place",
           "_label": "Philadelphie"
         }
@@ -1453,5 +1472,6 @@
         }
       ]
     }
+	
   ]
 }

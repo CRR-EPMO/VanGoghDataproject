@@ -657,8 +657,9 @@
 	}
   ],
   "used_for": [
-        {
+            {
       "type": "Activity",
+	  "id" : "https://www.musee-orsay.fr/data/exhibition/505241/1962/1962",
       "classified_as": [
         {
           "id": "http://vocab.getty.edu/aat/300054766",
@@ -674,7 +675,7 @@
       ],
       "carried_out_by": [
         {
-          
+          "id": "https://data.rkd.nl/artists/505241",
           "type": "Actor",
           "_label": "musée des Beaux-Arts"
         }
@@ -689,13 +690,15 @@
       "timespan": [
         {
           "type": "TimeSpan",
-          "end_of_the_end": "1962-12-31T00:00:00Z",
-          "begin_of_the_begin": "1962-01-01T23:59:59Z"
+          "begin_of_the_begin": "1962-01-01",
+		  "end_of_the_end": "1962-12-31"
         }
       ]
-    },
+    }
+	,
     {
       "type": "Activity",
+	  "id" : "https://www.musee-orsay.fr/data/exhibition/14059-2/1970/1970",
       "classified_as": [
         {
           "id": "http://vocab.getty.edu/aat/300054766",
@@ -711,7 +714,7 @@
       ],
       "carried_out_by": [
         {
-          
+          "id": "https://www.musee-orsay.fr/data/actor/14059-2",
           "type": "Actor",
           "_label": "organisme inconnu"
         }
@@ -726,13 +729,15 @@
       "timespan": [
         {
           "type": "TimeSpan",
-          "end_of_the_end": "1970-12-31T00:00:00Z",
-          "begin_of_the_begin": "1970-01-01T23:59:59Z"
+          "begin_of_the_begin": "1970-01-01",
+		  "end_of_the_end": "1970-12-31"
         }
       ]
-    },
+    }
+	,
     {
       "type": "Activity",
+	  "id" : "https://www.musee-orsay.fr/data/exhibition/500222834/1971/1971",
       "classified_as": [
         {
           "id": "http://vocab.getty.edu/aat/300054766",
@@ -748,7 +753,7 @@
       ],
       "carried_out_by": [
         {
-          
+          "id": "http://vocab.getty.edu/ulan/500222834",
           "type": "Actor",
           "_label": "Museo Español de Arte Contemporaneo"
         }
@@ -763,13 +768,15 @@
       "timespan": [
         {
           "type": "TimeSpan",
-          "end_of_the_end": "1971-12-31T00:00:00Z",
-          "begin_of_the_begin": "1971-01-01T23:59:59Z"
+          "begin_of_the_begin": "1971-01-01",
+		  "end_of_the_end": "1971-12-31"
         }
       ]
-    },
+    }
+	,
     {
       "type": "Activity",
+	  "id" : "https://www.musee-orsay.fr/data/exhibition/500303231/1971/1971",
       "classified_as": [
         {
           "id": "http://vocab.getty.edu/aat/300054766",
@@ -785,7 +792,7 @@
       ],
       "carried_out_by": [
         {
-          
+          "id": "http://vocab.getty.edu/ulan/500303231",
           "type": "Actor",
           "_label": "The Pushkin State Museum of Fine Arts"
         }
@@ -800,13 +807,15 @@
       "timespan": [
         {
           "type": "TimeSpan",
-          "end_of_the_end": "1971-12-31T00:00:00Z",
-          "begin_of_the_begin": "1971-01-01T23:59:59Z"
+          "begin_of_the_begin": "1971-01-01",
+		  "end_of_the_end": "1971-12-31"
         }
       ]
-    },
+    }
+	,
     {
       "type": "Activity",
+	  "id" : "https://www.musee-orsay.fr/data/exhibition/501949/2002/2003",
       "classified_as": [
         {
           "id": "http://vocab.getty.edu/aat/300054766",
@@ -822,7 +831,7 @@
       ],
       "carried_out_by": [
         {
-          
+          "id": "https://data.rkd.nl/artists/501949",
           "type": "Actor",
           "_label": "musée municipal"
         }
@@ -837,13 +846,15 @@
       "timespan": [
         {
           "type": "TimeSpan",
-          "end_of_the_end": "2003-12-31T00:00:00Z",
-          "begin_of_the_begin": "2002-01-01T23:59:59Z"
+          "begin_of_the_begin": "2002-01-01",
+		  "end_of_the_end": "2003-12-31"
         }
       ]
-    },
+    }
+	,
     {
       "type": "Activity",
+	  "id" : "https://www.musee-orsay.fr/data/exhibition/505242/2004/2004",
       "classified_as": [
         {
           "id": "http://vocab.getty.edu/aat/300054766",
@@ -859,7 +870,7 @@
       ],
       "carried_out_by": [
         {
-          
+          "id": "https://data.rkd.nl/artists/505242",
           "type": "Actor",
           "_label": "mairie d'Auxi-le-Château"
         }
@@ -874,13 +885,15 @@
       "timespan": [
         {
           "type": "TimeSpan",
-          "end_of_the_end": "2004-12-31T00:00:00Z",
-          "begin_of_the_begin": "2004-01-01T23:59:59Z"
+          "begin_of_the_begin": "2004-01-01",
+		  "end_of_the_end": "2004-12-31"
         }
       ]
-    },
+    }
+	,
     {
       "type": "Activity",
+	  "id" : "https://www.musee-orsay.fr/data/exhibition/505243/2009/2010",
       "classified_as": [
         {
           "id": "http://vocab.getty.edu/aat/300054766",
@@ -896,7 +909,7 @@
       ],
       "carried_out_by": [
         {
-          
+          "id": "https://data.rkd.nl/artists/505243",
           "type": "Actor",
           "_label": "musée d'Art et d'Industrie André Diligent - La Piscine"
         }
@@ -911,10 +924,11 @@
       "timespan": [
         {
           "type": "TimeSpan",
-          "end_of_the_end": "2010-12-31T00:00:00Z",
-          "begin_of_the_begin": "2009-01-01T23:59:59Z"
+          "begin_of_the_begin": "2009-01-01",
+		  "end_of_the_end": "2010-12-31"
         }
       ]
     }
+	
   ]
 }
