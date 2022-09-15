@@ -22,8 +22,7 @@ Test data sets to participate in the Vang Gogh Wolrdwide project (https://vangog
      B -.-> C{{Data wrangling}}
      C -.-> E{{Reconcialiation Service}}
      E -.-> F{{Export templating}}
-     F -.-> G{{Export}}
-     G -- generate jsonfile --- H[File system]
+     F -- generate jsonfile --- H[File system]
      H -- File deposit ---- I[Plateforme Github]
 ```
 
