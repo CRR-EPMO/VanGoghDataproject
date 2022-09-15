@@ -21,8 +21,8 @@ Test data sets to participate in the Vang Gogh Wolrdwide project (https://vangog
      A[(TMS Object)]-- Export XML --- B[OpenRefine]
      B -.-> C{{ReconcialiationServiceAAT}}
      B -.-> E{{Clean data}}
-     C --> F{{Export}}
-     E --> F
+     C -.-> F[Export]
+     E -.-> F
      F -- Export Templating --- D[generate jsonfile]
      D -- File deposit ---- G[Plateforme Github]
 ```
